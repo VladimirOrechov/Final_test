@@ -1,0 +1,16 @@
+D:\FinalHW\bin\Debug\net6.0\FinalHW.exe
+D:\FinalHW\bin\Debug\net6.0\FinalHW.deps.json
+D:\FinalHW\bin\Debug\net6.0\FinalHW.runtimeconfig.json
+D:\FinalHW\bin\Debug\net6.0\FinalHW.dll
+D:\FinalHW\bin\Debug\net6.0\ref\FinalHW.dll
+D:\FinalHW\bin\Debug\net6.0\FinalHW.pdb
+D:\FinalHW\obj\Debug\net6.0\FinalHW.GlobalUsings.g.cs
+D:\FinalHW\obj\Debug\net6.0\FinalHW.csproj.AssemblyReference.cache
+D:\FinalHW\obj\Debug\net6.0\FinalHW.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalHW\obj\Debug\net6.0\FinalHW.AssemblyInfoInputs.cache
+D:\FinalHW\obj\Debug\net6.0\FinalHW.AssemblyInfo.cs
+D:\FinalHW\obj\Debug\net6.0\FinalHW.csproj.CoreCompileInputs.cache
+D:\FinalHW\obj\Debug\net6.0\FinalHW.dll
+D:\FinalHW\obj\Debug\net6.0\ref\FinalHW.dll
+D:\FinalHW\obj\Debug\net6.0\FinalHW.pdb
+D:\FinalHW\obj\Debug\net6.0\FinalHW.genruntimeconfig.cache
